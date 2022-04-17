@@ -2,9 +2,8 @@
 ## Overview of Project: Explain the purpose of this analysis.
 This Analysus seeks to identify the return and operational volume of a series of stock. 
 ## Results:
-
-
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+/assets/images/VBA_Challenge_2017.png
+/assets/images/VBA_Challenge_2018.png
 ## Summary: 
 In a summary statement, address the following questions.
 -What are the advantages or disadvantages of refactoring code?
