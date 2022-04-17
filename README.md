@@ -3,8 +3,10 @@
 This Analysis seeks to identify the return and operational volume of a series of stock. 
 ## Results:
 ### 2017
+Here are the results of 2017, with practically all the shares in profit.
 ![2017](https://github.com/Ariosol/Challenge-2/blob/main/VBA_Challenge_2017.png)
 ### 2018
+However, 2018 has almost all the actions with losses.
 ![2018](https://github.com/Ariosol/Challenge-2/blob/main/VBA_Challenge_2018.png)
 
 ## Summary: 
